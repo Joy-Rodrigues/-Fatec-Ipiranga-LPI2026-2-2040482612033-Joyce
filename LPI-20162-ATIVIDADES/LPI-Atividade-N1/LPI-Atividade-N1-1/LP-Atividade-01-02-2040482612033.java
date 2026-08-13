@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class att2 {
+public class LP-Atividade-01-02-2040482612033 {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     
