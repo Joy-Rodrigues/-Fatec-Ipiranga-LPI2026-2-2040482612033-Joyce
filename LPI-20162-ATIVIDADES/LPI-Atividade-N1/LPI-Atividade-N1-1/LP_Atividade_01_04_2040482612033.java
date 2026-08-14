@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LP-Atividade-01-04-2040482612033 {
+public class LP_Atividade_01_04_2040482612033 {
     public static final String nome_Instituicao = "Fatec Ipiranga";
     public static final int prazo_Max_Dias = 14;
 

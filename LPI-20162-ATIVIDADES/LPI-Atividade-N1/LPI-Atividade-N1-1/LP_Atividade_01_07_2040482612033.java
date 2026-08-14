@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class LP-Atividade-01-07-2040482612033 {
+public class LP_Atividade_01_07_2040482612033 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
